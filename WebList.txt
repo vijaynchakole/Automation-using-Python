@@ -1,0 +1,9 @@
+#https://www.youtube.com/?gl=IN&tab=r1#########
+#https://www.kaggle.com/rio2016/olympic-games/data
+#https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+https://www.skysports.com/premier-league-table
+https://www.premierleague.com/tables
+https://urlregex.com/
+
+
+'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|[?:%[0-9a-fA-F][0-9a-fA-F]])'
